@@ -1,0 +1,14 @@
+Semt : Keçiören
+Oda Sayısı : 5
+Alan : 125
+Kat No : 4 + 
+Kira : 25000
+Depozito : 50000
+----------------------------------
+Semt : Mamak
+Oda Sayısı : 3
+Alan : 100
+Kat No : 2 + 
+Kira : 10000
+Depozito : 15000
+----------------------------------

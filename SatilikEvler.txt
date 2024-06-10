@@ -1,0 +1,10 @@
+Semt : Keçiören
+Oda Sayısı : 5
+Alan : 250
+Kat No : 2  
+Fiyat : 2000000
+Semt : Mamak
+Oda Sayısı : 6
+Alan : 100
+Kat No : 2  
+Fiyat : 100000

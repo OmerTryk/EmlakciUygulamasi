@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmlakciUygulamasi", "EmlakciUygulamasi\EmlakciUygulamasi.csproj", "{79BA2FF2-2229-4523-B881-1D29F6C7387E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvlerLib", "EvlerLib\EvlerLib.csproj", "{0642464E-2489-4F4E-BC86-AB1FF4AB5DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79BA2FF2-2229-4523-B881-1D29F6C7387E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79BA2FF2-2229-4523-B881-1D29F6C7387E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79BA2FF2-2229-4523-B881-1D29F6C7387E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79BA2FF2-2229-4523-B881-1D29F6C7387E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0642464E-2489-4F4E-BC86-AB1FF4AB5DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0642464E-2489-4F4E-BC86-AB1FF4AB5DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0642464E-2489-4F4E-BC86-AB1FF4AB5DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0642464E-2489-4F4E-BC86-AB1FF4AB5DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7ECAF7D-B0C3-407D-AD0B-D8A7D7F439DD}
+	EndGlobalSection
+EndGlobal
